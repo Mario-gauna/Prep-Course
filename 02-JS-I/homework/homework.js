@@ -1,7 +1,8 @@
-// En estas primeras 6 preguntas, reemplaza `null` por la respuesta
+git // En estas primeras 6 preguntas, reemplaza `null` por la respuesta
 
 // Crea una variable "string", puede contener lo que quieras:
-const nuevaString = "hola henry"
+const nuevaString = "hola leti linda"
+
 
 
 // Crea una variable numérica, puede ser cualquier número:
